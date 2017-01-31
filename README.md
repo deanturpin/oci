@@ -1,5 +1,9 @@
-Kinds of visa:
+- Kinds of visa:
 http://www.vfsglobal.com/India/UK/visa_types.html
+
+- Email:info[dot]london[at]hcilondon[dot]in
+- Tel No.: 02086295950 (0930 to 1700 hrs on all working days)
+https://www.hcilondon.in/pages.php?id=13
 
 <blockquote>
 In case of change of address/occupation, simply log into OCI miscellaneous services website, make the required address or occupation change and you are done. There is also no fee for this type of change. When you initiate a change of address or occupation via miscellaneous services, new OCI documents are not issued. 
