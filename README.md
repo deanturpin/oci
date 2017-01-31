@@ -10,9 +10,9 @@ Kinds of visa:
 </blockquote>
 http://www.vfsglobal.com/India/UK/visa_types.html
 
-<blockquote>
 Email:info[dot]london[at]hcilondon[dot]in
-Tel No.: 02086295950 (0930 to 1700 hrs on all working days)
+
+Tel No.: 02086295950 (0930 to 1700 hrs on all working days) - nobody has ever answered this number (cuts you off after 13 minutes)
 </blockquote>
 https://www.hcilondon.in/pages.php?id=13
 
