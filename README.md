@@ -7,11 +7,11 @@ Alternatively, you can get the name changed in the OCI.
 
 http://www.immihelp.com/forum/showthread.php/72913-OCI-in-maiden-name-and-passport-in-my-husband-s-surname
 
-```
+<blockquote>
 OCI registration certificate and visa have got to be re-issued by availing this service, each time a new passport is issued up to the completion of 20 years of age and once after completing 50 years of age in view of biological changes in face of the applicant.
  
 Re-issuance of OCI registration certificate and visa is not mandatory, each time a new passport is issued between 21-50 years of age. However, if the applicant wishes to avail this service, he/she can apply for the same.
-```
+</blockquote>
 
 http://mha1.nic.in/pdfs/GuidelinesOCI.pdf
 http://mha1.nic.in/pdfs/FAQs-200709.pdf
