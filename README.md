@@ -1,3 +1,4 @@
+# Foreign office
 <blockquote>
 In March 2016, the Government of India announced that OCI card holders will no longer need a visa to enter India. The ‘U’ visa sticker that was placed in the foreign passport of OCI card holders has been discontinued with immediate effect and you’ll no longer need to show this sticker to the immigration authorities when you enter and leave India. You’ll only need to present a valid passport and your OCI card. For more information, visit the website of the Indian Ministry of Home Affairs. 
 </blockquote>
