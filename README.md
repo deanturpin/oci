@@ -52,3 +52,7 @@ Passengers who are carrying old cancelled passports having Life Long Indian "U" 
 Even if the OCI card holder acquires nationality of a different country, except that of Pakistan and Bangladesh, he/she is also allowed entry into India provided he/she is carrying his/her old passport having Life Long Indian "U" Visa sticker pasted on it along with the new passport of the recently acquired nationality. 
 </blockquote>
 http://www.boi.gov.in/content/visa-requirement
+
+---
+
+Changing notes: https://www.rbi.org.in/Scripts/FAQView.aspx?Id=122
