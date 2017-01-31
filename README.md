@@ -1,3 +1,7 @@
+<blockquote>
+In case of change of address/occupation, simply log into OCI miscellaneous services website, make the required address or occupation change and you are done. There is also no fee for this type of change. When you initiate a change of address or occupation via miscellaneous services, new OCI documents are not issued. 
+</blockquote>
+http://www.ociregistration.com/oci_misc_services.htm
 
 <blockquote>
 Carry both passports, OCI book and your marriage certificate.
