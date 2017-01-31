@@ -5,11 +5,7 @@ https://www.gov.uk/foreign-travel-advice/india/entry-requirements
 
 http://mha1.nic.in/foreigDiv/OCI.html
 
-<blockquote>
-Kinds of visa:
-</blockquote>
-http://www.vfsglobal.com/India/UK/visa_types.html
-
+# High commission
 Email:info[dot]london[at]hcilondon[dot]in
 
 Tel No.: 02086295950 (0930 to 1700 hrs on all working days) - nobody has ever answered this number (cuts you off after 13 minutes)
@@ -55,4 +51,6 @@ http://www.boi.gov.in/content/visa-requirement
 
 ---
 
-Changing notes: https://www.rbi.org.in/Scripts/FAQView.aspx?Id=122
+- Changing notes: https://www.rbi.org.in/Scripts/FAQView.aspx?Id=122
+- Kinds of visa: http://www.vfsglobal.com/India/UK/visa_types.html
+
