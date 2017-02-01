@@ -8,7 +8,7 @@ No replies!
 
 ## Phone
 - http://www.vfsglobal.com/India/UK/important_information.html - said talk to immigration
-- https://www.hcilondon.in/pages.php?id=13 - no answer (hangs up after 13 minutes)
+- https://www.hcilondon.in/pages.php?id=13 - no answer (hangs up after 13 minutes, tried three times)
 
 # Foreign office
 <blockquote>
