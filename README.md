@@ -5,8 +5,17 @@ tldr - couldn't get any official confirmation so applied for e-Visa quoting the 
 # People I've contacted
 
 ## By email
-No replies
+Replies took a couple of days.
+
+No reply
 - indiatvoa@gov.in
+
+<blockquote>
+Greetings from the High Commission of India, London.
+The OCI needs to be updated with the married name before travelling.
+ 
+The OCI process has been outsourced to VFS (UK) and the application will have to be deposited with one of its centres.
+</blockquote>
 - info.london@hcilondon.in
 
 <blockquote>
