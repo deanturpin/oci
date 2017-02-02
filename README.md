@@ -1,10 +1,16 @@
 # People I've contacted
-## By email
-No replies!
 
+## By email
+No replies
 - indiatvoa@gov.in
-- info.ociuk@vfshelpline.com
 - info.london@hcilondon.in
+
+<blockquote>
+Please note that the re-issuance of OCI is mandatory every time passport is renewed up to the age of 20 years, and again after attaining the age of 50 years in view of frequent biological change in facial features in these age group. Please view the full requirements for OCI Re-issue for more information at the following link: Click Here.
+ 
+If any further assistance is needed please do write back to us.
+</blockquote>
+- info.ociuk@vfshelpline.com
 
 ## Phone
 - http://www.vfsglobal.com/India/UK/important_information.html - said talk to immigration
