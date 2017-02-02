@@ -2,12 +2,16 @@
 
 tldr - couldn't get any official confirmation so applied for e-Visa quoting the OCI number and "Tourist Visa" in the previous visa dropdown.
 
+----
+
 # People I've contacted
 
 ## By email
 Replies took a couple of days.
 
+<blockquote>
 No reply
+</blockquote>
 - indiatvoa@gov.in
 
 <blockquote>
